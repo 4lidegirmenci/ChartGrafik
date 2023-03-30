@@ -1,0 +1,11 @@
+C:\Users\monster\Desktop\C# Projeler\My-ChartGrafik\My-ChartGrafik\bin\Debug\My-ChartGrafik.exe.config
+C:\Users\monster\Desktop\C# Projeler\My-ChartGrafik\My-ChartGrafik\bin\Debug\My-ChartGrafik.exe
+C:\Users\monster\Desktop\C# Projeler\My-ChartGrafik\My-ChartGrafik\bin\Debug\My-ChartGrafik.pdb
+C:\Users\monster\Desktop\C# Projeler\My-ChartGrafik\My-ChartGrafik\obj\Debug\My-ChartGrafik.csproj.AssemblyReference.cache
+C:\Users\monster\Desktop\C# Projeler\My-ChartGrafik\My-ChartGrafik\obj\Debug\My-ChartGrafik.csproj.SuggestedBindingRedirects.cache
+C:\Users\monster\Desktop\C# Projeler\My-ChartGrafik\My-ChartGrafik\obj\Debug\My_ChartGrafik.Form1.resources
+C:\Users\monster\Desktop\C# Projeler\My-ChartGrafik\My-ChartGrafik\obj\Debug\My_ChartGrafik.Properties.Resources.resources
+C:\Users\monster\Desktop\C# Projeler\My-ChartGrafik\My-ChartGrafik\obj\Debug\My-ChartGrafik.csproj.GenerateResource.cache
+C:\Users\monster\Desktop\C# Projeler\My-ChartGrafik\My-ChartGrafik\obj\Debug\My-ChartGrafik.csproj.CoreCompileInputs.cache
+C:\Users\monster\Desktop\C# Projeler\My-ChartGrafik\My-ChartGrafik\obj\Debug\My-ChartGrafik.exe
+C:\Users\monster\Desktop\C# Projeler\My-ChartGrafik\My-ChartGrafik\obj\Debug\My-ChartGrafik.pdb

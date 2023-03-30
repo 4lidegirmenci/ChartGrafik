@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d05245a3-15f2-4212-a348-258ae8042f76": {
+      "ProjectGuid": "d05245a3-15f2-4212-a348-258ae8042f76",
+      "DisplayName": "My-ChartGrafik",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
